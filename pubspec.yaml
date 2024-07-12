@@ -1,6 +1,6 @@
 name: social_link
 description: "Using this package you can easily add your social media links in you mobile and webapp"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Devesh190/social_link.git
 
 environment:
