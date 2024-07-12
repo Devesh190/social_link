@@ -2,13 +2,13 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class SocialLink extends StatelessWidget {
-  String username;
+  final String username;
   final String url;
   final IconData iconData;
   final TextStyle placeholderStyle;
-  Color iconColor;
-  double iconSize;
-  SocialLink(
+  final Color iconColor;
+  final double iconSize;
+  const SocialLink(
       {super.key,
       required this.iconData,
       this.username = "",
