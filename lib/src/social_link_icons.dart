@@ -16,4 +16,5 @@ class Social_link {
   static const IconData spotify = IconData(0xe808, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData youtube = IconData(0xe809, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData linkedin = IconData(0xe80a, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  
 }
